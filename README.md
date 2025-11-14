@@ -154,12 +154,4 @@ Este proyecto es **altamente atractivo para reclutadores y empresas** porque dem
 
 ---
 
-## 🖤 Si deseas puedo crear también:
 
-🎨 Un logo oficial del proyecto  
-📊 Un dashboard adicional  
-🐍 Un script Python más completo  
-📁 Estructura profesional de repositorio  
-📘 Un PDF extra estilo "whitepaper"  
-
-Solo dímelo 😉  
